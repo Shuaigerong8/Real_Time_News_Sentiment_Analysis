@@ -1,0 +1,1 @@
+{"class":"__main__.CleanTextTransformer","timestamp":1744736721638,"sparkVersion":"3.5.1","uid":"CleanTextTransformer_6db02d87e38e","paramMap":{"inputCol":"sentence","outputCol":"clean_text"},"defaultParamMap":{"outputCol":"CleanTextTransformer_6db02d87e38e__output"}}

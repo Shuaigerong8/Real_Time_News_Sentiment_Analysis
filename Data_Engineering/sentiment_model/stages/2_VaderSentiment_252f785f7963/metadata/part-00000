@@ -1,0 +1,1 @@
+{"class":"__main__.VaderSentiment","timestamp":1744736721839,"sparkVersion":"3.5.1","uid":"VaderSentiment_252f785f7963","paramMap":{"inputCol":"clean_text","outputCol":"label"},"defaultParamMap":{"outputCol":"VaderSentiment_252f785f7963__output"}}

@@ -1,0 +1,1 @@
+{"class":"__main__.SentenceSplitter","timestamp":1744736721437,"sparkVersion":"3.5.1","uid":"SentenceSplitter_062c19560b2c","paramMap":{"inputCol":"full_text","outputCol":"sentence"},"defaultParamMap":{"outputCol":"SentenceSplitter_062c19560b2c__output"}}
